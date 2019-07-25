@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>
+    random facts
+    </title>
+  </head>
+  <body>
+  <header>
+    <nav>
+      <a href="./index.html">home</a>
+       <a href="./about.html">about</a>
+    </nav>
+  <h1>
+  about
+  </h1>
+  </header>
+  </body>
+</html>
